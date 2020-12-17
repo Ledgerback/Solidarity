@@ -113,8 +113,8 @@ You can also support us by talking about the AGMF with your friends or colleague
 1. Charles Adjovu, 
   - Affiliation: LedgerbackØDCRC
   - Working Groups: Research and Applied
-2. Xule Lin, 
-  - Affiliation: unaffiliated
+2. [Xule Lin](https://linxule.com/), 
+  - Affiliation: [Imperial College London](https://www.imperial.ac.uk/people/xule.lin)
   - Working Groups: Research
 
 ## Past 
