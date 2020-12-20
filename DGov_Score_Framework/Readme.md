@@ -132,6 +132,11 @@ You can also support us by talking about the AGMF with your friends or colleague
 # Publications
 
 ## Slides
+### Current
+
+- [Alternative Governance Metrics Framework](https://speakerdeck.com/ledgerback/alternative-governance-metrics-framework)
+
+### Stale 
 
 - [DGov Score Framework Litepaper_asof_2020_0627](https://docs.google.com/presentation/d/17q6qePk22Q5hBndR69BDPd4IQ8uYUWXtcZBrzPes8Pw/edit?usp=sharing)
 
